@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [23/Feb/2016:22:50:24 -0600] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Feb/2016:22:50:41 -0600] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-6 481
+0:0:0:0:0:0:0:1 - - [23/Feb/2016:22:51:35 -0600] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-10 173
+0:0:0:0:0:0:0:1 - - [23/Feb/2016:22:56:38 -0600] "GET /basic-web-app/test HTTP/1.1" 200 11 http-bio-8080-exec-1 1029
